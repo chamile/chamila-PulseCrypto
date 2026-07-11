@@ -3,7 +3,7 @@
 
 A real-time cryptocurrency market viewer with a Node.js **market data gateway** and a **React Native (Expo)** mobile client. Consumes Binance public streams, coalesces high-frequency updates at configurable intervals, and delivers only fresh state to mobile clients under strict backpressure control.
 
-<a href="https://youtu.be" target="_blank">
+<a href="https://www.youtube.com/shorts/JwaRhSDdO-s" target="_blank">
   <img src="https://www.youtube.com/shorts/JwaRhSDdO-s" alt="Watch the video" width="560" border="0" />
 </a>
 
