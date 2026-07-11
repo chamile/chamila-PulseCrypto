@@ -44,7 +44,7 @@ Trade-offs: no unreleased native APIs, no custom C++, ~15 MB extra bundle from t
 - **Expo Go** on the Android emulator or iOS simulator (SDK 57)
 
 ```bash
-git clone <this-repo> pulsecrypto
+git clone https://github.com/chamile/chamila-PulseCrypto.git pulsecrypto
 cd pulsecrypto
 npm install --legacy-peer-deps
 ```
