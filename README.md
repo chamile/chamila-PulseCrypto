@@ -3,9 +3,21 @@
 
 A real-time cryptocurrency market viewer with a Node.js **market data gateway** and a **React Native (Expo)** mobile client. Consumes Binance public streams, coalesces high-frequency updates at configurable intervals, and delivers only fresh state to mobile clients under strict backpressure control.
 
-<a href="https://www.youtube.com/shorts/JwaRhSDdO-s" target="_blank">
-  <img src="https://www.youtube.com/shorts/JwaRhSDdO-s" alt="Watch the video" width="560" border="0" />
-</a>
+  <div align="center">
+    <a href="https://www.youtube.com/shorts/JwaRhSDdO-s" target="_blank">
+      <img src="https://www.gstatic.com/marketing-cms/assets/images/81/3c/58eec61c47d9b4bd5961949881a0/external-logo-mono-1.png=n-w1860-h1047-fcrop64=1,00000000ffffffff-rw" alt="Watch the video" width="100" border="0" />
+      <br />
+      Watch the video
+    </a>
+  </div>
+
+  ---
+  <img width="20%" height="2556" alt="image" src="https://github.com/user-attachments/assets/a525dd8b-df16-48ee-9d7c-e215cb513392" />
+<img width="20%" height="2556" alt="image" src="https://github.com/user-attachments/assets/939bce1b-d3dd-494f-9f2d-d7d6e0dd73fc" />
+<img width="20%" height="2556" alt="image" src="https://github.com/user-attachments/assets/07fa51b5-c313-4011-9394-5bb1d937459c" />
+<img width="20%" height="2556" alt="image" src="https://github.com/user-attachments/assets/4039cd13-8111-43b5-9bae-abac39188e62" />
+
+
 
 ---
 
