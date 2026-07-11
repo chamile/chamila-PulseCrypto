@@ -1,0 +1,22 @@
+{
+  "name": "pulsecrypto",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Real-time cryptocurrency market viewer — Binance gateway + React Native mobile client",
+  "workspaces": [
+    "packages/contracts",
+    "packages/backend",
+    "packages/mobile"
+  ],
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "scripts": {
+    "dev": "npm run dev --workspace=@pulsecrypto/backend",
+    "dev:backend": "npm run dev --workspace=@pulsecrypto/backend",
+    "mobile": "npm run start --workspace=@pulsecrypto/mobile",
+    "build:contracts": "npm run build --workspace=@pulsecrypto/contracts",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "test": "npm run test --workspaces --if-present"
+  }
+}
