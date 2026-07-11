@@ -71,7 +71,7 @@ curl http://localhost:8080/pairs/meta
 
 In a separate terminal:
 ```bash
-npm run mobile
+npm run mobile --clear 
 ```
 
 Then press:
